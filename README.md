@@ -6,7 +6,7 @@
 5. Run application `npm start`
 
 # Local Backend development
-1. Get DB credentials file from project lead through Slack channel https://codeforsanjose.slack.com/messages/C77546YF6
+1. Get DB credentials file from project lead through Slack channel 
 2. Move projectInfoData.js into config directory
 3. `nodemon --exec babel-node server.js`
 
@@ -14,9 +14,9 @@
 # disaster-response-sj
 
 Inspired by civic tech volunteer responses to hurricanes Harvey and Irma,
-the goal of the disaster-response-sj project is to engage with San Jose's
-Office of Emergency Services to discuss how CfSJ can contribute to
-disaster response planning and execution.
+the goal of the disaster-response-sj project is to engage with City of Savannah's
+Office of Emergency Services to discuss how the 2019 CfA Fellowship team can contribute to
+disaster response planning and execution in Coastal Georgia. 
 
 ## Plan
 
@@ -28,11 +28,7 @@ disaster response planning and execution.
 
 _(will move this to its own page in a bit)_
 
-### San Jose
-
-via @mthong:
-
-  [City Council video and documentation](http://sanjose.granicus.com/MediaPlayer.php?view_id=51&clip_id=9856)
+### City of Savannah
 
   Agenda items 3.5, 3.6 and 3.7 all relate to the flood response and future emergency management. I’d specifically recommend watching/listening to the City staff presentation and public comment (go to item 3.5 in the video index), or reading the staff memo for item 3.6.
 
@@ -84,3 +80,5 @@ _note to self: add to KB_ https://www.projectptolemy.co https://disastersystems.
 #### Examples
 
 [irmaresponse.org](https://www.irmaresponse.org)
+
+[Harvey Needs](https://harveyneeds.org)
