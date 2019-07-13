@@ -11,7 +11,7 @@
 3. `nodemon --exec babel-node server.js`
 
 
-# disaster-response-sj
+# disaster-response-sav
 
 Inspired by civic tech volunteer responses to hurricanes Harvey and Irma,
 the goal of the disaster-response-sj project is to engage with City of Savannah's
